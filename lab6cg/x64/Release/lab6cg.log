@@ -1,0 +1,17 @@
+﻿  pch.cpp
+  glad.c
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_widgets.cpp
+  lab6cg.cpp
+c:\users\johnpower\source\repos\lab6cg\lab6cg\lab6cg.cpp(114): warning C4267: 'argument': conversion from 'size_t' to 'GLenum', possible loss of data
+c:\users\johnpower\source\repos\lab6cg\lab6cg\lab6cg.cpp(194): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\johnpower\source\repos\lab6cg\lab6cg\lab6cg.cpp(341): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\johnpower\source\repos\lab6cg\lab6cg\lab6cg.cpp(342): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  All 1675 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  lab6cg.vcxproj -> C:\Users\JohnPower\source\repos\lab6cg\x64\Release\lab6cg.exe

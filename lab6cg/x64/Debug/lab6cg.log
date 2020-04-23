@@ -1,0 +1,6 @@
+﻿  lab6cg.cpp
+c:\users\johnpower\source\repos\lab6cg\lab6cg\lab6cg.cpp(114): warning C4267: 'argument': conversion from 'size_t' to 'GLenum', possible loss of data
+c:\users\johnpower\source\repos\lab6cg\lab6cg\lab6cg.cpp(194): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\johnpower\source\repos\lab6cg\lab6cg\lab6cg.cpp(341): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\johnpower\source\repos\lab6cg\lab6cg\lab6cg.cpp(342): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  lab6cg.vcxproj -> C:\Users\JohnPower\source\repos\lab6cg\x64\Debug\lab6cg.exe
